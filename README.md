@@ -36,7 +36,7 @@ The site features a modern, clean layout with dynamic elements that enhance user
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML5, CSS3, JavaScript (Vanilla)
+- **Frontend:** HTML5, CSS3
 - **Fonts:** [Google Fonts](https://fonts.google.com/) – *Poppins* & *Special Elite*
 - **Icons:** [Font Awesome](https://fontawesome.com/) & [Devicon](https://devicon.dev/)
 
