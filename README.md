@@ -58,8 +58,8 @@ See the [LICENSE](LICENSE) file for more details.
 
 ## 🤝 Connect with Me
 
-- [**LinkedIn:**](https://www.linkedin.com/in/abhinav-atul)
-- [**GitHub:**](https://github.com/abhinavatul)
-- [**Email:**](abhinav_atul@outlook.com)
+- [**LinkedIn**](https://www.linkedin.com/in/abhinav-atul)
+- [**GitHub**](https://github.com/abhinavatul)
+- **Email:** abhinav_atul@outlook.com
 
 ---
