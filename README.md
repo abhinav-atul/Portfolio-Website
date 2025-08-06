@@ -1,6 +1,6 @@
 # 🌐 Abhinav Atul - Personal Portfolio Website
 
-This repository contains the source code for my personal portfolio website. It’s a fully responsive, single-page application built from scratch using **HTML**, **CSS**, and **vanilla JavaScript**, designed to showcase my skills, qualifications, and projects.
+This repository contains the source code for my personal portfolio website. It’s a fully responsive, single-page application built from scratch using **HTML** and **CSS** designed to showcase my skills, qualifications, and projects.
 
 The site features a modern, clean layout with dynamic elements that enhance user engagement and visual appeal.
 
